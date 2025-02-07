@@ -10,6 +10,7 @@
 - [Aakash](https://github.com/aakash1v)- This is my first contribution..
 - [pauldbg](https://github.com/Pauldbg)
 - [LeandroKellerSalto](https://github.com/lksalto)
+- [max] (https://github.com/MMAX2000)
 - [joothy](https://github.com/thikshathajoothy)
 - [maplesyrup0423](https://github.com/maplesyrup0423)
 - [Arman khan](https://github.com/Rage400)
