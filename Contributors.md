@@ -1,6 +1,7 @@
 # Contributors
 
 - [Ziqi LI](https://github.com/zli353) 🚀Hello world!
+- [max]
 - [Prashant/Kenny](https://github.com/michalshelenberg)
 - [Prashant/Kenny](https://github.com/Prashant-SG14)
 - [srmorita](https://github.com/srmorita)
